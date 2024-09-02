@@ -1,0 +1,6 @@
+# Ignore the entire src folder
+src/
+
+# Ignore specific files
+node_modules/
+public/
